@@ -101,7 +101,7 @@ public class User implements Serializable {
 
 ### 关于实体类的继承 `Serializable` 的问题,移步至
 
-**_[实体类为什么需要继承序列话`Serializable`](https://github.com/xiaoxunyao/Serializable)_**
+**_[实体类为什么需要继承序列化 `Serializable`](https://github.com/xiaoxunyao/Serializable)_**
 
 
 
